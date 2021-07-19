@@ -48,7 +48,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 23,
-    "versionPublish": "5.3.10",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/watermark-logo-128x120.png",
     "cssOptimize": true,
